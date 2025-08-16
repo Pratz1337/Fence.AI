@@ -29,7 +29,7 @@ from langchain.output_parsers import StructuredOutputParser, ResponseSchema
 from groq import Groq
 
 # Set Groq API key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "OOOGA-BOOGA"
 
 # Langchain Groq integration
 from langchain_groq import ChatGroq
