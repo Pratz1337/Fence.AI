@@ -1,0 +1,1 @@
+from .Detect import analyze_image
